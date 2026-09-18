@@ -1,0 +1,17 @@
+# Infrastructure Index
+
+- [Virtualization Cluster Barcelona 01](clusters/CLUSTER-BCN-01.md)
+- [Virtualization Cluster Madrid 01](clusters/CLUSTER-MAD-01.md)
+- [Shared PostgreSQL Platform](database-platforms/POSTGRES-SHARED.md)
+- [Northwind Retail Iberia VM 01](resources/VM-C1-PROD-01.md)
+- [Northwind Retail Iberia Web Instance](resources/WEB-C1-01.md)
+- [Northwind Retail Iberia PostgreSQL Instance](resources/DBI-C1-PG-01.md)
+- [Northwind Retail Iberia Application Database](resources/DB-C1-APP.md)
+- [Contoso Manufacturing Spain VM 01](resources/VM-C2-PROD-01.md)
+- [Contoso Manufacturing Spain Web Instance](resources/WEB-C2-01.md)
+- [Contoso Manufacturing Spain PostgreSQL Instance](resources/DBI-C2-PG-01.md)
+- [Contoso Manufacturing Spain Application Database](resources/DB-C2-APP.md)
+- [Fabrikam Professional Services VM 01](resources/VM-C3-PROD-01.md)
+- [Fabrikam Professional Services Web Instance](resources/WEB-C3-01.md)
+- [Fabrikam Professional Services PostgreSQL Instance](resources/DBI-C3-PG-01.md)
+- [Fabrikam Professional Services Application Database](resources/DB-C3-APP.md)
